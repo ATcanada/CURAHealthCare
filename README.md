@@ -1,6 +1,6 @@
 # CURAHealthCare
 **Summary**
-**The CURA Health Project is a demonstration project aimed at showcasing innovative solutions in healthcare during the COVID-19 pandemic. It focuses on utilizing 3D printing technology and repurposing shipping containers to create mobile intensive care units (CURA Pods). The project aims to address the urgent need for additional critical care facilities and medical equipment.
+**The CURA Health Project is a demonstration project aimed at showcasing innovative solutions in healthcare during the COVID-19 pandemic. The project aims to address the urgent need for additional critical care facilities and medical equipment.
 **Contents**
 Introduction
 **
