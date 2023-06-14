@@ -6,17 +6,22 @@ import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 import com.base.BaseClass;
 import com.pageObjects.MakeAppointmentPage;
 import com.pageObjects.ReaddmissionPage;
+import com.utilities.Screen_Recording;
 
+@Listeners(com.utilities.Reporting.class)
 public class ReadmissionTest extends BaseClass{
 	@BeforeClass
 	public void verifyLoginAndPageDetails() throws Exception {
+		Screen_Recording.startRecording("Readmission Patient");
 		LoginTest test=new LoginTest();	
 		test.verifyLoginAndPageDetails();
 	
@@ -66,6 +71,7 @@ public class ReadmissionTest extends BaseClass{
 	
 	@Test(priority=3)
 	public void rehealthcare() throws Exception {
+		
 	    driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 	    ReaddmissionPage page = new ReaddmissionPage(driver);
 	    page.ReAddmission_Ch();
@@ -134,5 +140,9 @@ public class ReadmissionTest extends BaseClass{
         logger.info("successfully Appointment: " + expectedUrl );
 	    
 }
+	@AfterClass
+	public void stopRecording() throws Exception {
+		 Screen_Recording.stopRecording(); 
+	}
 
 }

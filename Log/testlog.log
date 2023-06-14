@@ -3357,3 +3357,30 @@
 2023-06-08 14:10:41,788 - CURA Healthcare Service -INFO - Completed Test
 2023-06-08 14:10:43,417 - CURA Healthcare Service -INFO - successfully Booked: Book Appointment
 2023-06-08 14:10:44,711 - CURA Healthcare Service -INFO - successfully Appointment: https://katalon-demo-cura.herokuapp.com/appointment.php#summary
+2023-06-12 21:38:20,782 - CURA Healthcare Service -DEBUG - Debug logging has started 
+2023-06-12 21:38:21,981 - CURA Healthcare Service -INFO - Website launched successfully with the URL: https://katalon-demo-cura.herokuapp.com/ and title: CURA Healthcare Service
+2023-06-12 21:58:35,680 - CURA Healthcare Service -DEBUG - Debug logging has started 
+2023-06-12 22:06:31,979 - CURA Healthcare Service -DEBUG - Debug logging has started 
+2023-06-12 22:09:23,283 - CURA Healthcare Service -DEBUG - Debug logging has started 
+2023-06-12 22:15:00,467 - CURA Healthcare Service -DEBUG - Debug logging has started 
+2023-06-12 22:19:00,588 - CURA Healthcare Service -DEBUG - Debug logging has started 
+2023-06-12 22:25:16,044 - CURA Healthcare Service -DEBUG - Debug logging has started 
+2023-06-12 22:28:35,053 - CURA Healthcare Service -DEBUG - Debug logging has started 
+2023-06-12 23:08:32,467 - CURA Healthcare Service -DEBUG - Debug logging has started 
+2023-06-12 23:08:33,952 - CURA Healthcare Service -INFO - Website launched successfully with the URL: https://katalon-demo-cura.herokuapp.com/ and title: CURA Healthcare Service
+2023-06-12 23:08:37,639 - CURA Healthcare Service -INFO - Completed Test
+2023-06-12 23:08:39,562 - CURA Healthcare Service -INFO - successfully Booked: Book Appointment
+2023-06-12 23:08:41,497 - CURA Healthcare Service -INFO - successfully Appointment: https://katalon-demo-cura.herokuapp.com/appointment.php#summary
+2023-06-12 23:18:55,334 - CURA Healthcare Service -DEBUG - Debug logging has started 
+2023-06-12 23:18:56,811 - CURA Healthcare Service -INFO - Website launched successfully with the URL: https://katalon-demo-cura.herokuapp.com/ and title: CURA Healthcare Service
+2023-06-12 23:19:01,009 - CURA Healthcare Service -INFO - Completed Test
+2023-06-12 23:19:02,962 - CURA Healthcare Service -INFO - successfully Booked: Book Appointment
+2023-06-12 23:19:04,388 - CURA Healthcare Service -INFO - successfully Appointment: https://katalon-demo-cura.herokuapp.com/appointment.php#summary
+2023-06-12 23:24:48,476 - CURA Healthcare Service -DEBUG - Debug logging has started 
+2023-06-12 23:25:40,060 - CURA Healthcare Service -DEBUG - Debug logging has started 
+2023-06-12 23:25:41,281 - CURA Healthcare Service -INFO - Website launched successfully with the URL: https://katalon-demo-cura.herokuapp.com/ and title: CURA Healthcare Service
+2023-06-12 23:27:20,627 - CURA Healthcare Service -DEBUG - Debug logging has started 
+2023-06-12 23:27:22,036 - CURA Healthcare Service -INFO - Website launched successfully with the URL: https://katalon-demo-cura.herokuapp.com/ and title: CURA Healthcare Service
+2023-06-12 23:27:23,764 - CURA Healthcare Service -INFO - Completed Test
+2023-06-12 23:27:25,404 - CURA Healthcare Service -INFO - successfully Booked: Book Appointment
+2023-06-12 23:27:27,038 - CURA Healthcare Service -INFO - successfully Appointment: https://katalon-demo-cura.herokuapp.com/appointment.php#summary
